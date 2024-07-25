@@ -1,0 +1,2153 @@
+id,type,language
+1000001,Language,English
+1000002,Primary language,Korean
+1000002,Spoken language,English
+1000002,Spoken language,German
+1000002,Spoken language,Korean
+1000003,Primary language,English
+1000003,Spoken language,Cantonese
+1000003,Spoken language,Chinese
+1000003,Spoken language,English
+1000004,Language,English
+1000005,Language,English
+1000006,Primary language,English
+1000006,Spoken language,Dutch
+1000006,Spoken language,English
+1000007,Language,English
+1000008,Language,English
+1000009,Primary language,English
+1000009,Spoken language,Chinese
+1000009,Spoken language,English
+1000010,Primary language,English
+1000010,Spoken language,English
+1000010,Spoken language,Spanish
+1000010,Spoken language,French
+1000011,Primary language,English
+1000011,Spoken language,English
+1000011,Spoken language,Japanese
+1000011,Spoken language,Spanish
+1000012,Language,English
+1000013,Language,English
+1000014,Language,English
+1000015,Primary language,English
+1000015,Spoken language,Spanish
+1000015,Spoken language,English
+1000016,Primary language,English
+1000016,Spoken language,English
+1000016,Spoken language,Swedish
+1000017,Primary language,English
+1000017,Spoken language,English
+1000017,Spoken language,Chinese
+1000018,Primary language,English
+1000018,Spoken language,English
+1000018,Spoken language,French
+1000018,Spoken language,Japanese
+1000018,Spoken language,Swahili
+1000019,Language,English
+1000020,Primary language,English
+1000020,Spoken language,English
+1000020,Spoken language,French
+1000020,Spoken language,Portuguese
+1000021,Primary language,English
+1000021,Spoken language,English
+1000021,Spoken language,Hindi
+1000021,Spoken language,Italian
+1000021,Spoken language,Spanish
+1000022,Language,English
+1000023,Language,English
+1000024,Primary language,English
+1000024,Spoken language,English
+1000024,Spoken language,French
+1000025,Primary language,English
+1000025,Spoken language,English
+1000025,Spoken language,French
+1000026,Primary language,English
+1000026,Spoken language,English
+1000026,Spoken language,Spanish
+1000026,Spoken language,Cantonese
+1000027,Primary language,English
+1000027,Spoken language,English
+1000027,Spoken language,Tagalog
+1000028,Language,English
+1000029,Language,English
+1000030,Language,Japanese
+1000031,Primary language,English
+1000031,Spoken language,English
+1000031,Spoken language,Spanish
+1000032,Language,English
+1000033,Primary language,English
+1000033,Spoken language,English
+1000033,Spoken language,Italian
+1000033,Spoken language,Spanish
+1000034,Language,English
+1000035,Primary language,English
+1000035,Spoken language,English
+1000035,Spoken language,French
+1000035,Spoken language,Italian
+1000036,Primary language,English
+1000036,Spoken language,German
+1000036,Spoken language,English
+1000036,Spoken language,French
+1000036,Spoken language,Italian
+1000037,Primary language,English
+1000037,Spoken language,French
+1000037,Spoken language,English
+1000038,Language,English
+1000039,Language,English
+1000040,Primary language,English
+1000040,Spoken language,English
+1000040,Spoken language,Xhosa
+1000041,Language,English
+1000042,Language,English
+1000043,Primary language,English
+1000043,Spoken language,English
+1000043,Spoken language,Japanese
+1000043,Spoken language,Xhosa
+1000044,Language,English
+1000045,Primary language,English
+1000045,Spoken language,English
+1000045,Spoken language,Japanese
+1000045,Spoken language,French
+1000046,Primary language,English
+1000046,Spoken language,Latin
+1000046,Spoken language,English
+1000046,Spoken language,Italian
+1000047,Primary language,English
+1000047,Spoken language,English
+1000047,Spoken language,French
+1000047,Spoken language,German
+1000048,Primary language,English
+1000048,Spoken language,English
+1000048,Spoken language,German
+1000049,Primary language,English
+1000049,Spoken language,French
+1000049,Spoken language,English
+1000049,Spoken language,Italian
+1000050,Language,English
+1000051,Language,English
+1000052,Language,English
+1000053,Primary language,English
+1000053,Spoken language,English
+1000053,Spoken language,French
+1000054,Primary language,English
+1000054,Spoken language,English
+1000054,Spoken language,French
+1000055,Primary language,English
+1000055,Spoken language,Spanish
+1000055,Spoken language,English
+1000055,Spoken language,Portuguese
+1000056,Language,English
+1000057,Language,English
+1000058,Primary language,English
+1000058,Spoken language,English
+1000058,Spoken language,French
+1000058,Spoken language,Latin
+1000059,Primary language,English
+1000059,Spoken language,English
+1000059,Spoken language,Spanish
+1000060,Primary language,English
+1000060,Spoken language,English
+1000060,Spoken language,Latin
+1000061,Primary language,English
+1000061,Spoken language,English
+1000061,Spoken language,German
+1000062,Language,English
+1000063,Primary language,English
+1000063,Spoken language,English
+1000063,Spoken language,Korean
+1000063,Spoken language,Swahili
+1000063,Spoken language,Xhosa
+1000064,Primary language,English
+1000064,Spoken language,Chinese
+1000064,Spoken language,English
+1000064,Spoken language,Russian
+1000065,Primary language,English
+1000065,Spoken language,English
+1000065,Spoken language,Finnish
+1000065,Spoken language,Hungarian
+1000065,Spoken language,Japanese
+1000065,Spoken language,Russian
+1000065,Spoken language,Somali
+1000065,Spoken language,Spanish
+1000066,Language,English
+1000067,Language,English
+1000068,Language,English
+1000069,Primary language,English
+1000069,Spoken language,English
+1000069,Spoken language,Korean
+1000070,Language,English
+1000071,Primary language,English
+1000071,Spoken language,English
+1000071,Spoken language,Spanish
+1000072,Language,English
+1000073,Language,English
+1000074,Primary language,English
+1000074,Spoken language,English
+1000074,Spoken language,French
+1000074,Spoken language,German
+1000074,Spoken language,Swedish
+1000074,Spoken language,Italian
+1000074,Spoken language,Russian
+1000075,Primary language,English
+1000075,Spoken language,English
+1000075,Spoken language,Romanian
+1000076,Language,English
+1000077,Language,English
+1000078,Primary language,English
+1000078,Spoken language,English
+1000078,Spoken language,French
+1000078,Spoken language,Swedish
+1000079,Language,English
+1000080,Primary language,French
+1000080,Spoken language,English
+1000080,Spoken language,French
+1000080,Spoken language,German
+1000081,Language,English
+1000082,Language,English
+1000083,Language,English
+1000084,Language,English
+1000085,Language,English
+1000086,Language,English
+1000087,Primary language,English
+1000087,Spoken language,Swahili
+1000087,Spoken language,English
+1000087,Spoken language,German
+1000087,Spoken language,Vietnamese
+1000088,Language,English
+1000089,Language,English
+1000090,Language,English
+1000091,Primary language,English
+1000091,Spoken language,Italian
+1000091,Spoken language,English
+1000092,Language,English
+1000093,Language,English
+1000094,Language,Japanese
+1000095,Language,English
+1000096,Language,English
+1000097,Language,English
+1000098,Language,English
+1000099,Primary language,English
+1000099,Spoken language,English
+1000099,Spoken language,Spanish
+1000099,Spoken language,Turkish
+1000100,Language,English
+1000101,Language,English
+1000102,Primary language,English
+1000102,Spoken language,English
+1000102,Spoken language,French
+1000102,Spoken language,German
+1000103,Language,English
+1000104,Primary language,English
+1000104,Spoken language,English
+1000104,Spoken language,Spanish
+1000105,Primary language,English
+1000105,Spoken language,Japanese
+1000105,Spoken language,English
+1000105,Spoken language,Russian
+1000105,Spoken language,Spanish
+1000106,Primary language,English
+1000106,Spoken language,Cantonese
+1000106,Spoken language,English
+1000106,Spoken language,Spanish
+1000107,Language,English
+1000108,Language,English
+1000109,Primary language,English
+1000109,Spoken language,English
+1000109,Spoken language,Russian
+1000110,Primary language,English
+1000110,Spoken language,English
+1000110,Spoken language,German
+1000111,Primary language,English
+1000111,Spoken language,English
+1000111,Spoken language,Spanish
+1000112,Language,English
+1000113,Primary language,English
+1000113,Spoken language,Czech
+1000113,Spoken language,Dutch
+1000113,Spoken language,English
+1000113,Spoken language,German
+1000113,Spoken language,Italian
+1000114,Language,English
+1000115,Primary language,English
+1000115,Spoken language,English
+1000115,Spoken language,Hindi
+1000115,Spoken language,Russian
+1000116,Primary language,English
+1000116,Spoken language,English
+1000116,Spoken language,French
+1000116,Spoken language,German
+1000117,Primary language,English
+1000117,Spoken language,French
+1000117,Spoken language,Latin
+1000117,Spoken language,English
+1000118,Language,English
+1000119,Language,English
+1000120,Primary language,English
+1000120,Spoken language,English
+1000120,Spoken language,Spanish
+1000121,Language,English
+1000122,Language,English
+1000123,Language,English
+1000124,Language,English
+1000125,Primary language,English
+1000125,Spoken language,English
+1000125,Spoken language,French
+1000126,Primary language,English
+1000126,Spoken language,English
+1000126,Spoken language,French
+1000127,Language,English
+1000128,Language,English
+1000129,Language,English
+1000130,Language,English
+1000131,Language,English
+1000132,Primary language,English
+1000132,Spoken language,English
+1000132,Spoken language,Estonian
+1000133,Language,Japanese
+1000134,Language,English
+1000135,Primary language,English
+1000135,Spoken language,English
+1000135,Spoken language,Spanish
+1000136,Language,English
+1000137,Language,English
+1000138,Language,English
+1000139,Primary language,English
+1000139,Spoken language,French
+1000139,Spoken language,English
+1000140,Primary language,English
+1000140,Spoken language,English
+1000140,Spoken language,Persian (Farsi)
+1000140,Spoken language,Urdu
+1000140,Spoken language,Arabic
+1000141,Language,English
+1000142,Language,English
+1000143,Primary language,English
+1000143,Spoken language,Japanese
+1000143,Spoken language,English
+1000144,Primary language,English
+1000144,Spoken language,English
+1000144,Spoken language,Spanish
+1000145,Language,English
+1000146,Language,English
+1000147,Language,English
+1000148,Language,English
+1000149,Language,English
+1000150,Language,English
+1000151,Primary language,French
+1000151,Spoken language,Italian
+1000151,Spoken language,French
+1000152,Language,English
+1000153,Primary language,English
+1000153,Spoken language,Romanian
+1000153,Spoken language,English
+1000153,Spoken language,German
+1000153,Spoken language,Russian
+1000154,Language,English
+1000155,Primary language,English
+1000155,Spoken language,English
+1000155,Spoken language,French
+1000156,Language,English
+1000157,Primary language,English
+1000157,Spoken language,English
+1000157,Spoken language,German
+1000157,Spoken language,Cantonese
+1000157,Spoken language,Japanese
+1000157,Spoken language,Hungarian
+1000158,Language,English
+1000159,Language,English
+1000160,Language,English
+1000161,Language,English
+1000162,Primary language,English
+1000162,Spoken language,English
+1000162,Spoken language,German
+1000162,Spoken language,French
+1000163,Language,English
+1000164,Primary language,English
+1000164,Spoken language,English
+1000164,Spoken language,Russian
+1000164,Spoken language,Chinese
+1000165,Language,English
+1000166,Language,Korean
+1000167,Primary language,English
+1000167,Spoken language,Hungarian
+1000167,Spoken language,English
+1000167,Spoken language,Russian
+1000168,Language,English
+1000169,Primary language,English
+1000169,Spoken language,English
+1000169,Spoken language,French
+1000170,Primary language,English
+1000170,Spoken language,English
+1000170,Spoken language,Urdu
+1000170,Spoken language,Chinese
+1000171,Language,English
+1000172,Language,English
+1000173,Language,English
+1000174,Language,English
+1000175,Language,English
+1000176,Language,English
+1000177,Language,English
+1000178,Language,English
+1000179,Primary language,English
+1000179,Spoken language,French
+1000179,Spoken language,English
+1000180,Primary language,French
+1000180,Spoken language,French
+1000180,Spoken language,Russian
+1000181,Primary language,English
+1000181,Spoken language,German
+1000181,Spoken language,Polish
+1000181,Spoken language,Hebrew (modern)
+1000181,Spoken language,English
+1000182,Primary language,English
+1000182,Spoken language,English
+1000182,Spoken language,Spanish
+1000183,Primary language,English
+1000183,Spoken language,Cantonese
+1000183,Spoken language,English
+1000183,Spoken language,Spanish
+1000184,Primary language,English
+1000184,Spoken language,English
+1000184,Spoken language,French
+1000184,Spoken language,Greek (modern)
+1000185,Language,English
+1000186,Language,English
+1000187,Language,English
+1000188,Language,English
+1000189,Language,Japanese
+1000190,Language,English
+1000191,Language,English
+1000192,Language,Japanese
+1000193,Primary language,English
+1000193,Spoken language,Greek (modern)
+1000193,Spoken language,English
+1000194,Language,English
+1000195,Language,English
+1000196,Language,English
+1000197,Language,English
+1000198,Language,English
+1000199,Primary language,English
+1000199,Spoken language,English
+1000199,Spoken language,Cantonese
+1000200,Language,English
+1000201,Language,English
+1000202,Language,English
+1000203,Language,English
+1000204,Language,English
+1000205,Language,English
+1000206,Primary language,English
+1000206,Spoken language,English
+1000206,Spoken language,Chinese
+1000207,Primary language,English
+1000207,Spoken language,English
+1000207,Spoken language,French
+1000207,Spoken language,Spanish
+1000208,Primary language,English
+1000208,Spoken language,English
+1000208,Spoken language,Greek (modern)
+1000209,Language,Japanese
+1000210,Language,English
+1000211,Primary language,English
+1000211,Spoken language,Spanish
+1000211,Spoken language,English
+1000212,Language,English
+1000213,Language,English
+1000214,Language,English
+1000215,Primary language,German
+1000215,Spoken language,German
+1000215,Spoken language,Polish
+1000215,Spoken language,Yiddish
+1000216,Language,English
+1000217,Language,English
+1000218,Primary language,English
+1000218,Spoken language,English
+1000218,Spoken language,Spanish
+1000219,Language,Spanish
+1000220,Language,English
+1000221,Primary language,English
+1000221,Spoken language,English
+1000221,Spoken language,Russian
+1000222,Primary language,English
+1000222,Spoken language,Spanish
+1000222,Spoken language,English
+1000222,Spoken language,Portuguese
+1000223,Language,English
+1000224,Primary language,English
+1000224,Spoken language,Spanish
+1000224,Spoken language,English
+1000225,Primary language,English
+1000225,Spoken language,English
+1000225,Spoken language,Hebrew (modern)
+1000225,Spoken language,Spanish
+1000225,Spoken language,German
+1000226,Primary language,English
+1000226,Spoken language,English
+1000226,Spoken language,Spanish
+1000227,Primary language,English
+1000227,Spoken language,English
+1000227,Spoken language,French
+1000227,Spoken language,Italian
+1000228,Language,English
+1000229,Primary language,English
+1000229,Spoken language,English
+1000229,Spoken language,Italian
+1000229,Spoken language,Latin
+1000229,Spoken language,Spanish
+1000230,Language,English
+1000231,Primary language,English
+1000231,Spoken language,English
+1000231,Spoken language,Chinese
+1000232,Language,English
+1000233,Language,English
+1000234,Language,English
+1000235,Language,English
+1000236,Language,English
+1000237,Language,English
+1000238,Language,English
+1000239,Language,English
+1000240,Language,English
+1000241,Primary language,English
+1000241,Spoken language,English
+1000241,Spoken language,Chinese
+1000241,Spoken language,Spanish
+1000241,Spoken language,Cantonese
+1000242,Primary language,English
+1000242,Spoken language,English
+1000242,Spoken language,Norwegian
+1000243,Language,English
+1000244,Language,English
+1000245,Language,English
+1000246,Language,English
+1000247,Primary language,English
+1000247,Spoken language,English
+1000247,Spoken language,Spanish
+1000248,Primary language,English
+1000248,Spoken language,Czech
+1000248,Spoken language,German
+1000248,Spoken language,English
+1000248,Spoken language,French
+1000249,Language,English
+1000250,Language,English
+1000251,Primary language,English
+1000251,Spoken language,English
+1000251,Spoken language,French
+1000252,Language,English
+1000253,Language,English
+1000254,Primary language,English
+1000254,Spoken language,French
+1000254,Spoken language,Norwegian
+1000254,Spoken language,English
+1000255,Language,English
+1000256,Primary language,English
+1000256,Spoken language,English
+1000256,Spoken language,French
+1000256,Spoken language,"Haitian, Haitian Creole"
+1000256,Spoken language,Spanish
+1000256,Spoken language,Xhosa
+1000257,Language,English
+1000258,Primary language,English
+1000258,Spoken language,English
+1000258,Spoken language,Russian
+1000259,Language,English
+1000260,Language,Japanese
+1000261,Primary language,English
+1000261,Spoken language,English
+1000261,Spoken language,German
+1000262,Primary language,English
+1000262,Spoken language,Khmer
+1000262,Spoken language,English
+1000262,Spoken language,French
+1000262,Spoken language,Vietnamese
+1000263,Language,English
+1000264,Primary language,English
+1000264,Spoken language,English
+1000264,Spoken language,Italian
+1000265,Language,English
+1000266,Primary language,English
+1000266,Spoken language,Cantonese
+1000266,Spoken language,English
+1000266,Spoken language,Russian
+1000266,Spoken language,Spanish
+1000267,Primary language,English
+1000267,Spoken language,Spanish
+1000267,Spoken language,English
+1000268,Language,Norwegian
+1000269,Primary language,English
+1000269,Spoken language,English
+1000269,Spoken language,Spanish
+1000270,Primary language,English
+1000270,Spoken language,English
+1000270,Spoken language,Portuguese
+1000270,Spoken language,Spanish
+1000271,Language,English
+1000272,Primary language,English
+1000272,Spoken language,Spanish
+1000272,Spoken language,English
+1000273,Language,English
+1000274,Language,English
+1000275,Primary language,Cantonese
+1000275,Spoken language,Cantonese
+1000275,Spoken language,French
+1000275,Spoken language,Spanish
+1000276,Primary language,English
+1000276,Spoken language,Cantonese
+1000276,Spoken language,Chinese
+1000276,Spoken language,Korean
+1000276,Spoken language,French
+1000276,Spoken language,English
+1000277,Primary language,English
+1000277,Spoken language,English
+1000277,Spoken language,Chinese
+1000277,Spoken language,Spanish
+1000278,Primary language,English
+1000278,Spoken language,English
+1000278,Spoken language,Spanish
+1000278,Spoken language,German
+1000278,Spoken language,Hebrew (modern)
+1000278,Spoken language,Arabic
+1000278,Spoken language,Nepali
+1000279,Language,English
+1000280,Primary language,English
+1000280,Spoken language,English
+1000280,Spoken language,Japanese
+1000281,Primary language,English
+1000281,Spoken language,Akan
+1000281,Spoken language,English
+1000281,Spoken language,German
+1000281,Spoken language,French
+1000281,Spoken language,Swedish
+1000281,Spoken language,Tagalog
+1000281,Spoken language,Greek (modern)
+1000282,Language,English
+1000283,Language,English
+1000284,Primary language,English
+1000284,Spoken language,German
+1000284,Spoken language,English
+1000284,Spoken language,Polish
+1000284,Spoken language,Russian
+1000285,Primary language,Korean
+1000285,Spoken language,Japanese
+1000285,Spoken language,Korean
+1000286,Primary language,English
+1000286,Spoken language,English
+1000286,Spoken language,Icelandic
+1000287,Primary language,English
+1000287,Spoken language,English
+1000287,Spoken language,Japanese
+1000287,Spoken language,Spanish
+1000288,Language,English
+1000289,Language,English
+1000290,Primary language,English
+1000290,Spoken language,English
+1000290,Spoken language,Italian
+1000291,Primary language,English
+1000291,Spoken language,English
+1000291,Spoken language,Japanese
+1000291,Spoken language,Spanish
+1000292,Language,English
+1000293,Language,English
+1000294,Primary language,English
+1000294,Spoken language,English
+1000294,Spoken language,French
+1000295,Primary language,English
+1000295,Spoken language,English
+1000295,Spoken language,French
+1000296,Primary language,English
+1000296,Spoken language,German
+1000296,Spoken language,French
+1000296,Spoken language,English
+1000296,Spoken language,Portuguese
+1000296,Spoken language,Tagalog
+1000297,Language,English
+1000298,Primary language,English
+1000298,Spoken language,English
+1000298,Spoken language,Russian
+1000298,Spoken language,French
+1000299,Language,English
+1000300,Language,English
+1000301,Primary language,English
+1000301,Spoken language,English
+1000301,Spoken language,Spanish
+1000302,Language,English
+1000303,Language,English
+1000304,Primary language,English
+1000304,Spoken language,English
+1000304,Spoken language,German
+1000304,Spoken language,Italian
+1000305,Primary language,English
+1000305,Spoken language,English
+1000305,Spoken language,French
+1000306,Language,English
+1000307,Primary language,English
+1000307,Spoken language,Arabic
+1000307,Spoken language,English
+1000307,Spoken language,Hindi
+1000307,Spoken language,Latin
+1000307,Spoken language,Spanish
+1000308,Language,English
+1000309,Primary language,English
+1000309,Spoken language,English
+1000309,Spoken language,Italian
+1000309,Spoken language,Latin
+1000309,Spoken language,Spanish
+1000310,Language,English
+1000311,Language,English
+1000312,Primary language,English
+1000312,Spoken language,Arabic
+1000312,Spoken language,Cantonese
+1000312,Spoken language,English
+1000312,Spoken language,French
+1000312,Spoken language,German
+1000312,Spoken language,Japanese
+1000312,Spoken language,Latin
+1000312,Spoken language,Russian
+1000312,Spoken language,Spanish
+1000313,Primary language,English
+1000313,Spoken language,English
+1000313,Spoken language,Portuguese
+1000314,Primary language,English
+1000314,Spoken language,Arabic
+1000314,Spoken language,English
+1000315,Language,English
+1000316,Primary language,English
+1000316,Spoken language,English
+1000316,Spoken language,Italian
+1000316,Spoken language,Japanese
+1000316,Spoken language,Yiddish
+1000317,Language,English
+1000318,Primary language,German
+1000318,Spoken language,French
+1000318,Spoken language,English
+1000318,Spoken language,German
+1000319,Language,Portuguese
+1000320,Language,English
+1000321,Language,English
+1000322,Language,English
+1000323,Primary language,English
+1000323,Spoken language,English
+1000323,Spoken language,French
+1000323,Spoken language,Spanish
+1000324,Language,English
+1000325,Language,Spanish
+1000326,Language,English
+1000327,Language,English
+1000328,Primary language,English
+1000328,Spoken language,Italian
+1000328,Spoken language,English
+1000329,Language,English
+1000330,Language,English
+1000331,Language,English
+1000332,Primary language,English
+1000332,Spoken language,Latin
+1000332,Spoken language,Spanish
+1000332,Spoken language,English
+1000333,Language,French
+1000334,Primary language,English
+1000334,Spoken language,English
+1000334,Spoken language,French
+1000335,Primary language,English
+1000335,Spoken language,English
+1000335,Spoken language,Portuguese
+1000335,Spoken language,Spanish
+1000336,Language,English
+1000337,Primary language,English
+1000337,Spoken language,German
+1000337,Spoken language,French
+1000337,Spoken language,Latin
+1000337,Spoken language,Arabic
+1000337,Spoken language,Greek (modern)
+1000337,Spoken language,English
+1000338,Language,Japanese
+1000339,Language,English
+1000340,Language,English
+1000341,Language,English
+1000342,Language,English
+1000343,Language,Korean
+1000344,Language,English
+1000345,Language,English
+1000346,Language,English
+1000347,Primary language,English
+1000347,Spoken language,German
+1000347,Spoken language,English
+1000348,Primary language,English
+1000348,Spoken language,English
+1000348,Spoken language,Spanish
+1000349,Language,Japanese
+1000350,Primary language,English
+1000350,Spoken language,English
+1000350,Spoken language,French
+1000351,Primary language,English
+1000351,Spoken language,English
+1000351,Spoken language,Vietnamese
+1000352,Primary language,English
+1000352,Spoken language,Chinese
+1000352,Spoken language,English
+1000352,Spoken language,Malay
+1000353,Language,English
+1000354,Language,English
+1000355,Primary language,English
+1000355,Spoken language,English
+1000355,Spoken language,Portuguese
+1000356,Language,English
+1000357,Primary language,Cantonese
+1000357,Spoken language,Cantonese
+1000357,Spoken language,Chinese
+1000357,Spoken language,English
+1000357,Spoken language,Hindi
+1000357,Spoken language,Japanese
+1000357,Spoken language,"Eastern Punjabi, Eastern Panjabi"
+1000357,Spoken language,Urdu
+1000358,Language,English
+1000359,Language,English
+1000360,Language,English
+1000361,Primary language,English
+1000361,Spoken language,German
+1000361,Spoken language,French
+1000361,Spoken language,Italian
+1000361,Spoken language,English
+1000362,Language,English
+1000363,Primary language,English
+1000363,Spoken language,English
+1000363,Spoken language,Japanese
+1000364,Primary language,Cantonese
+1000364,Spoken language,Cantonese
+1000364,Spoken language,Chinese
+1000364,Spoken language,English
+1000364,Spoken language,Japanese
+1000365,Language,English
+1000366,Language,English
+1000367,Primary language,Japanese
+1000367,Spoken language,English
+1000367,Spoken language,Japanese
+1000368,Primary language,English
+1000368,Spoken language,French
+1000368,Spoken language,English
+1000369,Primary language,Korean
+1000369,Spoken language,Korean
+1000369,Spoken language,English
+1000370,Primary language,English
+1000370,Spoken language,English
+1000370,Spoken language,Hebrew (modern)
+1000370,Spoken language,Italian
+1000370,Spoken language,Russian
+1000371,Language,English
+1000372,Language,Japanese
+1000373,Language,English
+1000374,Language,English
+1000375,Language,English
+1000376,Language,English
+1000377,Primary language,English
+1000377,Spoken language,English
+1000377,Spoken language,Spanish
+1000378,Language,English
+1000379,Language,English
+1000380,Language,English
+1000381,Primary language,English
+1000381,Spoken language,English
+1000381,Spoken language,Portuguese
+1000382,Language,English
+1000383,Language,English
+1000384,Language,English
+1000385,Language,English
+1000386,Language,English
+1000387,Primary language,English
+1000387,Spoken language,English
+1000387,Spoken language,Georgian
+1000388,Primary language,English
+1000388,Spoken language,English
+1000388,Spoken language,French
+1000388,Spoken language,German
+1000388,Spoken language,Spanish
+1000389,Language,Japanese
+1000390,Language,English
+1000391,Language,English
+1000392,Language,English
+1000393,Language,English
+1000394,Language,English
+1000395,Primary language,English
+1000395,Spoken language,French
+1000395,Spoken language,Japanese
+1000395,Spoken language,Italian
+1000395,Spoken language,English
+1000396,Language,English
+1000397,Primary language,English
+1000397,Spoken language,Arabic
+1000397,Spoken language,Chinese
+1000397,Spoken language,English
+1000397,Spoken language,Indonesian
+1000397,Spoken language,Italian
+1000397,Spoken language,Japanese
+1000397,Spoken language,Latin
+1000397,Spoken language,Russian
+1000398,Language,English
+1000399,Primary language,English
+1000399,Spoken language,English
+1000399,Spoken language,French
+1000399,Spoken language,Portuguese
+1000400,Language,English
+1000401,Primary language,English
+1000401,Spoken language,English
+1000401,Spoken language,Italian
+1000401,Spoken language,Russian
+1000402,Primary language,English
+1000402,Spoken language,English
+1000402,Spoken language,French
+1000402,Spoken language,Russian
+1000402,Spoken language,Spanish
+1000403,Primary language,English
+1000403,Spoken language,English
+1000403,Spoken language,Korean
+1000404,Language,English
+1000405,Primary language,English
+1000405,Spoken language,English
+1000405,Spoken language,Spanish
+1000406,Language,English
+1000407,Primary language,Korean
+1000407,Spoken language,English
+1000407,Spoken language,French
+1000407,Spoken language,Japanese
+1000407,Spoken language,Korean
+1000408,Primary language,English
+1000408,Spoken language,English
+1000408,Spoken language,Chinese
+1000409,Language,English
+1000410,Language,English
+1000411,Language,English
+1000412,Language,English
+1000413,Language,English
+1000414,Language,English
+1000415,Primary language,English
+1000415,Spoken language,English
+1000415,Spoken language,Hebrew (modern)
+1000416,Language,English
+1000417,Language,English
+1000418,Language,English
+1000419,Language,English
+1000420,Language,English
+1000421,Language,English
+1000422,Language,English
+1000423,Primary language,English
+1000423,Spoken language,Spanish
+1000423,Spoken language,French
+1000423,Spoken language,Russian
+1000423,Spoken language,English
+1000423,Spoken language,Italian
+1000424,Language,English
+1000425,Language,English
+1000426,Primary language,English
+1000426,Spoken language,Spanish
+1000426,Spoken language,English
+1000427,Language,English
+1000428,Language,English
+1000429,Language,English
+1000430,Language,English
+1000431,Language,English
+1000432,Primary language,Russian
+1000432,Spoken language,Belarusian
+1000432,Spoken language,German
+1000432,Spoken language,Russian
+1000433,Language,English
+1000434,Language,English
+1000435,Primary language,English
+1000435,Spoken language,French
+1000435,Spoken language,English
+1000435,Spoken language,Italian
+1000435,Spoken language,Russian
+1000436,Language,English
+1000437,Primary language,English
+1000437,Spoken language,Spanish
+1000437,Spoken language,English
+1000438,Language,English
+1000439,Language,English
+1000440,Language,English
+1000441,Language,English
+1000442,Primary language,English
+1000442,Spoken language,French
+1000442,Spoken language,Latin
+1000442,Spoken language,German
+1000442,Spoken language,Italian
+1000443,Primary language,Danish
+1000443,Spoken language,Danish
+1000443,Spoken language,Swedish
+1000444,Language,English
+1000445,Language,Italian
+1000446,Language,English
+1000447,Primary language,English
+1000447,Spoken language,English
+1000447,Spoken language,French
+1000447,Spoken language,Latin
+1000448,Language,English
+1000449,Language,English
+1000450,Language,English
+1000451,Language,English
+1000452,Language,English
+1000453,Primary language,English
+1000453,Spoken language,English
+1000453,Spoken language,German
+1000454,Primary language,English
+1000454,Spoken language,English
+1000454,Spoken language,French
+1000454,Spoken language,German
+1000455,Primary language,Korean
+1000455,Spoken language,English
+1000455,Spoken language,Korean
+1000455,Spoken language,Urdu
+1000456,Language,English
+1000457,Language,English
+1000458,Primary language,English
+1000458,Spoken language,English
+1000458,Spoken language,Spanish
+1000459,Primary language,English
+1000459,Spoken language,English
+1000459,Spoken language,Spanish
+1000460,Language,English
+1000461,Language,English
+1000462,Primary language,English
+1000462,Spoken language,English
+1000462,Spoken language,Spanish
+1000463,Language,English
+1000464,Primary language,English
+1000464,Spoken language,English
+1000464,Spoken language,French
+1000465,Language,English
+1000466,Primary language,English
+1000466,Spoken language,German
+1000466,Spoken language,English
+1000467,Primary language,English
+1000467,Spoken language,English
+1000467,Spoken language,Japanese
+1000468,Primary language,English
+1000468,Spoken language,English
+1000468,Spoken language,French
+1000468,Spoken language,Italian
+1000469,Primary language,English
+1000469,Spoken language,Cantonese
+1000469,Spoken language,Chinese
+1000469,Spoken language,English
+1000470,Language,English
+1000471,Language,English
+1000472,Primary language,English
+1000472,Spoken language,English
+1000472,Spoken language,Turkish
+1000472,Spoken language,Greek (modern)
+1000472,Spoken language,Chinese
+1000473,Primary language,English
+1000473,Spoken language,Spanish
+1000473,Spoken language,English
+1000473,Spoken language,French
+1000473,Spoken language,Hungarian
+1000474,Language,English
+1000475,Language,English
+1000476,Primary language,English
+1000476,Spoken language,English
+1000476,Spoken language,Portuguese
+1000476,Spoken language,Spanish
+1000477,Primary language,English
+1000477,Spoken language,English
+1000477,Spoken language,French
+1000477,Spoken language,Hindi
+1000477,Spoken language,Japanese
+1000477,Spoken language,Tamil
+1000478,Language,English
+1000479,Language,English
+1000480,Language,English
+1000481,Primary language,English
+1000481,Spoken language,French
+1000481,Spoken language,English
+1000482,Language,English
+1000483,Language,English
+1000484,Language,English
+1000485,Primary language,English
+1000485,Spoken language,English
+1000485,Spoken language,French
+1000485,Spoken language,German
+1000486,Language,English
+1000487,Primary language,Japanese
+1000487,Spoken language,English
+1000487,Spoken language,Japanese
+1000488,Primary language,English
+1000488,Spoken language,Japanese
+1000488,Spoken language,English
+1000489,Language,English
+1000490,Primary language,English
+1000490,Spoken language,English
+1000490,Spoken language,French
+1000491,Language,English
+1000492,Language,English
+1000493,Primary language,English
+1000493,Spoken language,English
+1000493,Spoken language,Hindi
+1000494,Language,English
+1000495,Language,English
+1000496,Language,English
+1000497,Language,English
+1000498,Primary language,English
+1000498,Spoken language,Arabic
+1000498,Spoken language,English
+1000498,Spoken language,German
+1000498,Spoken language,Greek (modern)
+1000499,Language,English
+1000500,Primary language,English
+1000500,Spoken language,English
+1000500,Spoken language,Spanish
+1000501,Language,English
+1000502,Primary language,English
+1000502,Spoken language,English
+1000502,Spoken language,Portuguese
+1000503,Language,English
+1000504,Language,English
+1000505,Primary language,English
+1000505,Spoken language,English
+1000505,Spoken language,French
+1000505,Spoken language,Russian
+1000505,Spoken language,Vietnamese
+1000506,Language,English
+1000507,Language,English
+1000508,Language,English
+1000509,Primary language,Spanish
+1000509,Spoken language,English
+1000509,Spoken language,Spanish
+1000510,Language,English
+1000511,Language,English
+1000512,Language,English
+1000513,Language,English
+1000514,Language,English
+1000515,Language,English
+1000516,Primary language,English
+1000516,Spoken language,English
+1000516,Spoken language,French
+1000516,Spoken language,German
+1000516,Spoken language,Russian
+1000517,Language,English
+1000518,Language,English
+1000519,Primary language,English
+1000519,Spoken language,English
+1000519,Spoken language,Spanish
+1000520,Language,English
+1000521,Language,English
+1000522,Language,English
+1000523,Language,English
+1000524,Primary language,English
+1000524,Spoken language,English
+1000524,Spoken language,French
+1000525,Language,English
+1000526,Language,English
+1000527,Language,English
+1000528,Language,English
+1000529,Primary language,Japanese
+1000529,Spoken language,English
+1000529,Spoken language,Japanese
+1000530,Language,English
+1000531,Primary language,English
+1000531,Spoken language,French
+1000531,Spoken language,English
+1000532,Language,English
+1000533,Language,English
+1000534,Primary language,English
+1000534,Spoken language,Italian
+1000534,Spoken language,Spanish
+1000534,Spoken language,French
+1000534,Spoken language,English
+1000535,Language,English
+1000536,Language,Japanese
+1000537,Primary language,Japanese
+1000537,Spoken language,Chinese
+1000537,Spoken language,English
+1000537,Spoken language,German
+1000537,Spoken language,Indonesian
+1000537,Spoken language,Japanese
+1000537,Spoken language,Korean
+1000537,Spoken language,Malay
+1000537,Spoken language,Tagalog
+1000538,Primary language,English
+1000538,Spoken language,English
+1000538,Spoken language,Russian
+1000538,Spoken language,Spanish
+1000539,Language,English
+1000540,Language,English
+1000541,Language,French
+1000542,Primary language,English
+1000542,Spoken language,Chinese
+1000542,Spoken language,English
+1000542,Spoken language,"Sinhalese, Sinhala"
+1000543,Primary language,English
+1000543,Spoken language,English
+1000543,Spoken language,French
+1000543,Spoken language,German
+1000544,Language,Swedish
+1000545,Primary language,English
+1000545,Spoken language,English
+1000545,Spoken language,Hindi
+1000545,Spoken language,German
+1000545,Spoken language,"Tibetan Standard, Tibetan, Central"
+1000546,Language,French
+1000547,Primary language,English
+1000547,Spoken language,English
+1000547,Spoken language,French
+1000548,Primary language,English
+1000548,Spoken language,English
+1000548,Spoken language,Chinese
+1000549,Language,English
+1000550,Primary language,English
+1000550,Spoken language,English
+1000550,Spoken language,French
+1000551,Language,English
+1000552,Primary language,English
+1000552,Spoken language,English
+1000552,Spoken language,Spanish
+1000553,Language,English
+1000554,Language,English
+1000555,Primary language,English
+1000555,Spoken language,English
+1000555,Spoken language,French
+1000556,Primary language,English
+1000556,Spoken language,English
+1000556,Spoken language,Arabic
+1000556,Spoken language,French
+1000556,Spoken language,German
+1000556,Spoken language,Spanish
+1000557,Language,English
+1000558,Language,English
+1000559,Primary language,English
+1000559,Spoken language,English
+1000559,Spoken language,French
+1000559,Spoken language,German
+1000559,Spoken language,Portuguese
+1000559,Spoken language,Spanish
+1000560,Primary language,English
+1000560,Spoken language,Spanish
+1000560,Spoken language,English
+1000560,Spoken language,German
+1000561,Language,English
+1000562,Language,English
+1000563,Language,English
+1000564,Primary language,English
+1000564,Spoken language,French
+1000564,Spoken language,Latin
+1000564,Spoken language,English
+1000565,Language,English
+1000566,Language,English
+1000567,Language,English
+1000568,Primary language,English
+1000568,Spoken language,English
+1000568,Spoken language,Armenian
+1000568,Spoken language,Hebrew (modern)
+1000568,Spoken language,Polish
+1000568,Spoken language,Romanian
+1000569,Language,English
+1000570,Primary language,English
+1000570,Spoken language,English
+1000570,Spoken language,Greek (modern)
+1000570,Spoken language,French
+1000571,Language,English
+1000572,Primary language,English
+1000572,Spoken language,English
+1000572,Spoken language,Icelandic
+1000572,Spoken language,Spanish
+1000573,Language,English
+1000574,Primary language,English
+1000574,Spoken language,French
+1000574,Spoken language,English
+1000575,Primary language,English
+1000575,Spoken language,English
+1000575,Spoken language,Spanish
+1000575,Spoken language,Russian
+1000576,Language,English
+1000577,Language,English
+1000578,Language,English
+1000579,Primary language,English
+1000579,Spoken language,English
+1000579,Spoken language,Cantonese
+1000580,Primary language,English
+1000580,Spoken language,Arabic
+1000580,Spoken language,English
+1000580,Spoken language,French
+1000580,Spoken language,Italian
+1000580,Spoken language,Japanese
+1000581,Language,English
+1000582,Language,English
+1000583,Language,English
+1000584,Primary language,English
+1000584,Spoken language,English
+1000584,Spoken language,Russian
+1000585,Primary language,English
+1000585,Spoken language,English
+1000585,Spoken language,Italian
+1000585,Spoken language,Hebrew (modern)
+1000586,Primary language,English
+1000586,Spoken language,Danish
+1000586,Spoken language,English
+1000587,Language,English
+1000588,Primary language,English
+1000588,Spoken language,English
+1000588,Spoken language,Spanish
+1000589,Language,Russian
+1000590,Primary language,Danish
+1000590,Spoken language,Danish
+1000590,Spoken language,Polish
+1000590,Spoken language,English
+1000591,Primary language,English
+1000591,Spoken language,French
+1000591,Spoken language,English
+1000592,Primary language,Korean
+1000592,Spoken language,English
+1000592,Spoken language,Chinese
+1000592,Spoken language,Korean
+1000593,Language,English
+1000594,Primary language,English
+1000594,Spoken language,Spanish
+1000594,Spoken language,English
+1000595,Primary language,English
+1000595,Spoken language,English
+1000595,Spoken language,German
+1000596,Primary language,English
+1000596,Spoken language,English
+1000596,Spoken language,Italian
+1000597,Primary language,Italian
+1000597,Spoken language,German
+1000597,Spoken language,Czech
+1000597,Spoken language,English
+1000597,Spoken language,Italian
+1000598,Primary language,English
+1000598,Spoken language,English
+1000598,Spoken language,Spanish
+1000598,Spoken language,Greek (modern)
+1000599,Language,English
+1000600,Primary language,French
+1000600,Spoken language,English
+1000600,Spoken language,French
+1000601,Language,English
+1000602,Primary language,English
+1000602,Spoken language,English
+1000602,Spoken language,Portuguese
+1000602,Spoken language,Spanish
+1000603,Language,English
+1000604,Language,English
+1000605,Language,English
+1000606,Primary language,English
+1000606,Spoken language,German
+1000606,Spoken language,English
+1000606,Spoken language,Spanish
+1000606,Spoken language,French
+1000606,Spoken language,Russian
+1000607,Language,English
+1000608,Primary language,English
+1000608,Spoken language,French
+1000608,Spoken language,English
+1000609,Primary language,English
+1000609,Spoken language,English
+1000609,Spoken language,Japanese
+1000610,Language,English
+1000611,Language,English
+1000612,Language,Spanish
+1000613,Primary language,English
+1000613,Spoken language,French
+1000613,Spoken language,Hindi
+1000613,Spoken language,English
+1000614,Language,English
+1000615,Language,English
+1000616,Language,English
+1000617,Primary language,English
+1000617,Spoken language,Spanish
+1000617,Spoken language,Cantonese
+1000617,Spoken language,English
+1000618,Primary language,English
+1000618,Spoken language,English
+1000618,Spoken language,Italian
+1000619,Primary language,English
+1000619,Spoken language,English
+1000619,Spoken language,Spanish
+1000619,Spoken language,Korean
+1000620,Language,Italian
+1000621,Primary language,English
+1000621,Spoken language,Russian
+1000621,Spoken language,English
+1000622,Language,English
+1000623,Language,English
+1000624,Language,English
+1000625,Primary language,English
+1000625,Spoken language,English
+1000625,Spoken language,Spanish
+1000626,Language,English
+1000627,Language,English
+1000628,Language,English
+1000629,Primary language,English
+1000629,Spoken language,English
+1000629,Spoken language,French
+1000629,Spoken language,Czech
+1000630,Primary language,English
+1000630,Spoken language,Latin
+1000630,Spoken language,English
+1000630,Spoken language,French
+1000630,Spoken language,Italian
+1000631,Language,English
+1000632,Primary language,English
+1000632,Spoken language,English
+1000632,Spoken language,Spanish
+1000633,Language,English
+1000634,Language,English
+1000635,Primary language,English
+1000635,Spoken language,French
+1000635,Spoken language,English
+1000635,Spoken language,Latin
+1000635,Spoken language,Spanish
+1000636,Primary language,English
+1000636,Spoken language,Russian
+1000636,Spoken language,Spanish
+1000636,Spoken language,English
+1000637,Primary language,English
+1000637,Spoken language,English
+1000637,Spoken language,Icelandic
+1000637,Spoken language,Portuguese
+1000637,Spoken language,French
+1000637,Spoken language,Tagalog
+1000637,Spoken language,German
+1000637,Spoken language,Italian
+1000638,Language,English
+1000639,Language,English
+1000640,Primary language,English
+1000640,Spoken language,English
+1000640,Spoken language,French
+1000641,Primary language,English
+1000641,Spoken language,French
+1000641,Spoken language,English
+1000642,Primary language,English
+1000642,Spoken language,English
+1000642,Spoken language,German
+1000642,Spoken language,Italian
+1000642,Spoken language,Latin
+1000643,Language,English
+1000644,Language,English
+1000645,Language,English
+1000646,Primary language,English
+1000646,Spoken language,English
+1000646,Spoken language,Spanish
+1000647,Language,English
+1000648,Language,English
+1000649,Primary language,English
+1000649,Spoken language,English
+1000649,Spoken language,Spanish
+1000650,Primary language,English
+1000650,Spoken language,English
+1000650,Spoken language,Spanish
+1000651,Language,English
+1000652,Primary language,English
+1000652,Spoken language,English
+1000652,Spoken language,Japanese
+1000652,Spoken language,Thai
+1000652,Spoken language,Vietnamese
+1000653,Language,English
+1000654,Primary language,English
+1000654,Spoken language,English
+1000654,Spoken language,German
+1000655,Language,English
+1000656,Language,English
+1000657,Language,English
+1000658,Language,English
+1000659,Language,English
+1000660,Language,English
+1000661,Language,English
+1000662,Language,English
+1000663,Primary language,English
+1000663,Spoken language,Portuguese
+1000663,Spoken language,Spanish
+1000663,Spoken language,English
+1000664,Language,English
+1000665,Language,English
+1000666,Language,English
+1000667,Language,English
+1000668,Language,English
+1000669,Primary language,English
+1000669,Spoken language,English
+1000669,Spoken language,French
+1000670,Language,Japanese
+1000671,Primary language,English
+1000671,Spoken language,English
+1000671,Spoken language,Portuguese
+1000672,Primary language,English
+1000672,Spoken language,English
+1000672,Spoken language,French
+1000673,Primary language,English
+1000673,Spoken language,Cantonese
+1000673,Spoken language,German
+1000673,Spoken language,English
+1000674,Primary language,English
+1000674,Spoken language,English
+1000674,Spoken language,Chinese
+1000674,Spoken language,Japanese
+1000675,Language,English
+1000676,Language,English
+1000677,Language,English
+1000678,Language,English
+1000679,Language,English
+1000680,Language,English
+1000681,Language,English
+1000682,Language,English
+1000683,Primary language,English
+1000683,Spoken language,Swedish
+1000683,Spoken language,English
+1000683,Spoken language,Italian
+1000684,Language,English
+1000685,Primary language,English
+1000685,Spoken language,Swedish
+1000685,Spoken language,English
+1000686,Language,English
+1000687,Language,English
+1000688,Primary language,French
+1000688,Spoken language,English
+1000688,Spoken language,French
+1000689,Primary language,English
+1000689,Spoken language,French
+1000689,Spoken language,Spanish
+1000689,Spoken language,English
+1000690,Language,English
+1000691,Language,English
+1000692,Primary language,English
+1000692,Spoken language,English
+1000692,Spoken language,Norwegian
+1000693,Language,English
+1000694,Language,English
+1000695,Primary language,English
+1000695,Spoken language,English
+1000695,Spoken language,French
+1000696,Language,English
+1000697,Language,Japanese
+1000698,Language,English
+1000699,Primary language,English
+1000699,Spoken language,English
+1000699,Spoken language,French
+1000700,Language,English
+1000701,Language,English
+1000702,Language,English
+1000703,Language,Swedish
+1000704,Primary language,English
+1000704,Spoken language,Chinese
+1000704,Spoken language,English
+1000705,Primary language,English
+1000705,Spoken language,French
+1000705,Spoken language,English
+1000706,Language,English
+1000707,Language,English
+1000708,Language,English
+1000709,Language,English
+1000710,Language,English
+1000711,Language,Greek (modern)
+1000712,Language,English
+1000713,Language,Japanese
+1000714,Primary language,English
+1000714,Spoken language,French
+1000714,Spoken language,English
+1000714,Spoken language,Italian
+1000714,Spoken language,German
+1000715,Language,English
+1000716,Primary language,English
+1000716,Spoken language,German
+1000716,Spoken language,French
+1000716,Spoken language,English
+1000717,Language,English
+1000718,Language,Japanese
+1000719,Language,English
+1000720,Language,English
+1000721,Language,English
+1000722,Language,English
+1000723,Primary language,English
+1000723,Spoken language,English
+1000723,Spoken language,Arabic
+1000724,Language,English
+1000725,Language,English
+1000726,Language,English
+1000727,Primary language,Telugu
+1000727,Spoken language,English
+1000727,Spoken language,Telugu
+1000728,Primary language,French
+1000728,Spoken language,French
+1000728,Spoken language,Dutch
+1000729,Language,English
+1000730,Language,English
+1000731,Primary language,English
+1000731,Spoken language,Chinese
+1000731,Spoken language,English
+1000731,Spoken language,French
+1000731,Spoken language,Spanish
+1000731,Spoken language,Korean
+1000732,Primary language,Japanese
+1000732,Spoken language,French
+1000732,Spoken language,German
+1000732,Spoken language,Italian
+1000732,Spoken language,Japanese
+1000733,Language,English
+1000734,Primary language,Korean
+1000734,Spoken language,English
+1000734,Spoken language,Korean
+1000735,Language,English
+1000736,Primary language,English
+1000736,Spoken language,English
+1000736,Spoken language,French
+1000736,Spoken language,German
+1000736,Spoken language,Italian
+1000736,Spoken language,Japanese
+1000737,Language,English
+1000738,Language,English
+1000739,Primary language,English
+1000739,Spoken language,English
+1000739,Spoken language,German
+1000740,Primary language,English
+1000740,Spoken language,English
+1000740,Spoken language,German
+1000740,Spoken language,Spanish
+1000741,Primary language,English
+1000741,Spoken language,English
+1000741,Spoken language,Chinese
+1000742,Language,English
+1000743,Language,English
+1000744,Primary language,French
+1000744,Spoken language,French
+1000744,Spoken language,Arabic
+1000744,Spoken language,English
+1000745,Language,English
+1000746,Language,English
+1000747,Primary language,English
+1000747,Spoken language,Cantonese
+1000747,Spoken language,English
+1000747,Spoken language,Japanese
+1000747,Spoken language,Russian
+1000748,Language,English
+1000749,Language,English
+1000750,Primary language,English
+1000750,Spoken language,English
+1000750,Spoken language,Spanish
+1000751,Primary language,English
+1000751,Spoken language,English
+1000751,Spoken language,Swedish
+1000752,Primary language,English
+1000752,Spoken language,English
+1000752,Spoken language,French
+1000753,Primary language,English
+1000753,Spoken language,English
+1000753,Spoken language,Spanish
+1000754,Language,English
+1000755,Primary language,English
+1000755,Spoken language,English
+1000755,Spoken language,German
+1000755,Spoken language,Italian
+1000756,Primary language,English
+1000756,Spoken language,English
+1000756,Spoken language,German
+1000757,Language,English
+1000758,Language,English
+1000759,Primary language,English
+1000759,Spoken language,English
+1000759,Spoken language,Russian
+1000760,Language,English
+1000761,Primary language,English
+1000761,Spoken language,English
+1000761,Spoken language,Urdu
+1000762,Language,English
+1000763,Language,English
+1000764,Primary language,English
+1000764,Spoken language,English
+1000764,Spoken language,Italian
+1000764,Spoken language,Spanish
+1000764,Spoken language,Cantonese
+1000765,Language,English
+1000766,Language,English
+1000767,Language,English
+1000768,Language,English
+1000769,Primary language,English
+1000769,Spoken language,English
+1000769,Spoken language,Vietnamese
+1000770,Language,English
+1000771,Primary language,English
+1000771,Spoken language,English
+1000771,Spoken language,French
+1000772,Language,English
+1000773,Language,English
+1000774,Primary language,English
+1000774,Spoken language,"Scottish Gaelic, Gaelic"
+1000774,Spoken language,English
+1000775,Language,English
+1000776,Primary language,English
+1000776,Spoken language,Arabic
+1000776,Spoken language,English
+1000776,Spoken language,French
+1000776,Spoken language,German
+1000777,Primary language,English
+1000777,Spoken language,English
+1000777,Spoken language,Spanish
+1000778,Primary language,English
+1000778,Spoken language,English
+1000778,Spoken language,Northern Sami
+1000779,Primary language,English
+1000779,Spoken language,Arabic
+1000779,Spoken language,English
+1000779,Spoken language,German
+1000779,Spoken language,Polish
+1000779,Spoken language,Russian
+1000779,Spoken language,Swahili
+1000780,Language,English
+1000781,Language,English
+1000782,Primary language,English
+1000782,Spoken language,English
+1000782,Spoken language,Italian
+1000783,Primary language,English
+1000783,Spoken language,English
+1000783,Spoken language,Japanese
+1000784,Primary language,English
+1000784,Spoken language,English
+1000784,Spoken language,Spanish
+1000785,Language,English
+1000786,Language,English
+1000787,Language,English
+1000788,Primary language,English
+1000788,Spoken language,English
+1000788,Spoken language,Swedish
+1000788,Spoken language,German
+1000789,Primary language,English
+1000789,Spoken language,French
+1000789,Spoken language,English
+1000789,Spoken language,Spanish
+1000789,Spoken language,Italian
+1000789,Spoken language,German
+1000790,Language,English
+1000791,Primary language,English
+1000791,Spoken language,Esperanto
+1000791,Spoken language,English
+1000792,Primary language,English
+1000792,Spoken language,English
+1000792,Spoken language,Spanish
+1000793,Primary language,English
+1000793,Spoken language,Spanish
+1000793,Spoken language,English
+1000794,Primary language,English
+1000794,Spoken language,English
+1000794,Spoken language,French
+1000795,Language,Japanese
+1000796,Language,English
+1000797,Primary language,English
+1000797,Spoken language,Czech
+1000797,Spoken language,English
+1000797,Spoken language,French
+1000797,Spoken language,German
+1000797,Spoken language,Thai
+1000798,Primary language,English
+1000798,Spoken language,Bulgarian
+1000798,Spoken language,English
+1000798,Spoken language,French
+1000798,Spoken language,Russian
+1000798,Spoken language,Spanish
+1000799,Language,English
+1000800,Language,English
+1000801,Primary language,English
+1000801,Spoken language,Afrikaans
+1000801,Spoken language,"Chichewa, Chewa, Nyanja"
+1000801,Spoken language,Southern Sotho
+1000801,Spoken language,Xhosa
+1000801,Spoken language,Zulu
+1000801,Spoken language,English
+1000802,Primary language,English
+1000802,Spoken language,English
+1000802,Spoken language,German
+1000802,Spoken language,Russian
+1000803,Primary language,English
+1000803,Spoken language,English
+1000803,Spoken language,Portuguese
+1000804,Language,English
+1000805,Language,English
+1000806,Language,English
+1000807,Primary language,English
+1000807,Spoken language,English
+1000807,Spoken language,Spanish
+1000808,Primary language,English
+1000808,Spoken language,English
+1000808,Spoken language,French
+1000809,Language,English
+1000810,Language,English
+1000811,Primary language,English
+1000811,Spoken language,French
+1000811,Spoken language,English
+1000812,Language,English
+1000813,Primary language,English
+1000813,Spoken language,Spanish
+1000813,Spoken language,English
+1000814,Language,English
+1000815,Primary language,English
+1000815,Spoken language,German
+1000815,Spoken language,English
+1000815,Spoken language,Swedish
+1000816,Language,English
+1000817,Primary language,English
+1000817,Spoken language,English
+1000817,Spoken language,Irish
+1000817,Spoken language,Latin
+1000817,Spoken language,Chinese
+1000818,Primary language,French
+1000818,Spoken language,French
+1000818,Spoken language,English
+1000819,Language,Japanese
+1000820,Language,English
+1000821,Language,English
+1000822,Language,English
+1000823,Primary language,English
+1000823,Spoken language,English
+1000823,Spoken language,French
+1000824,Primary language,English
+1000824,Spoken language,English
+1000824,Spoken language,Portuguese
+1000824,Spoken language,French
+1000824,Spoken language,Breton
+1000825,Language,English
+1000826,Language,English
+1000827,Language,English
+1000828,Language,English
+1000829,Language,Japanese
+1000830,Primary language,English
+1000830,Spoken language,English
+1000830,Spoken language,French
+1000831,Language,English
+1000832,Primary language,English
+1000832,Spoken language,Latin
+1000832,Spoken language,Romanian
+1000832,Spoken language,Bulgarian
+1000832,Spoken language,Greek (modern)
+1000832,Spoken language,English
+1000833,Primary language,English
+1000833,Spoken language,English
+1000833,Spoken language,French
+1000834,Primary language,English
+1000834,Spoken language,Arabic
+1000834,Spoken language,English
+1000834,Spoken language,German
+1000834,Spoken language,Persian (Farsi)
+1000835,Language,English
+1000836,Language,English
+1000837,Language,English
+1000838,Primary language,English
+1000838,Spoken language,Bulgarian
+1000838,Spoken language,Croatian
+1000838,Spoken language,Hebrew (modern)
+1000838,Spoken language,English
+1000838,Spoken language,Hungarian
+1000838,Spoken language,Romanian
+1000839,Language,English
+1000840,Language,English
+1000841,Primary language,English
+1000841,Spoken language,Arabic
+1000841,Spoken language,English
+1000841,Spoken language,Portuguese
+1000841,Spoken language,Turkish
+1000842,Primary language,English
+1000842,Spoken language,English
+1000842,Spoken language,Russian
+1000842,Spoken language,French
+1000842,Spoken language,Arabic
+1000842,Spoken language,Swedish
+1000843,Primary language,English
+1000843,Spoken language,Italian
+1000843,Spoken language,English
+1000844,Language,English
+1000845,Language,English
+1000846,Language,English
+1000847,Language,Japanese
+1000848,Primary language,English
+1000848,Spoken language,English
+1000848,Spoken language,Spanish
+1000849,Language,English
+1000850,Primary language,English
+1000850,Spoken language,French
+1000850,Spoken language,English
+1000850,Spoken language,Romanian
+1000851,Language,English
+1000852,Language,English
+1000853,Language,Japanese
+1000854,Primary language,English
+1000854,Spoken language,English
+1000854,Spoken language,German
+1000855,Primary language,Italian
+1000855,Spoken language,German
+1000855,Spoken language,English
+1000855,Spoken language,French
+1000855,Spoken language,Italian
+1000856,Primary language,English
+1000856,Spoken language,English
+1000856,Spoken language,Spanish
+1000857,Primary language,English
+1000857,Spoken language,English
+1000857,Spoken language,French
+1000858,Language,English
+1000859,Language,English
+1000860,Primary language,English
+1000860,Spoken language,English
+1000860,Spoken language,Portuguese
+1000861,Language,English
+1000862,Language,English
+1000863,Language,English
+1000864,Language,Japanese
+1000865,Language,Japanese
+1000866,Primary language,English
+1000866,Spoken language,English
+1000866,Spoken language,Latin
+1000867,Language,English
+1000868,Language,English
+1000869,Language,English
+1000870,Primary language,English
+1000870,Spoken language,English
+1000870,Spoken language,French
+1000870,Spoken language,Latin
+1000870,Spoken language,"Scottish Gaelic, Gaelic"
+1000872,Language,English
+1000873,Language,English
+1000874,Language,English
+1000875,Primary language,English
+1000875,Spoken language,English
+1000875,Spoken language,French
+1000876,Primary language,English
+1000876,Spoken language,English
+1000876,Spoken language,Japanese
+1000876,Spoken language,Tagalog
+1000877,Language,English
+1000878,Primary language,Spanish
+1000878,Spoken language,Spanish
+1000878,Spoken language,Portuguese
+1000879,Language,English
+1000880,Primary language,English
+1000880,Spoken language,English
+1000880,Spoken language,Spanish
+1000881,Language,English
+1000882,Language,English
+1000883,Language,English
+1000884,Language,English
+1000885,Language,English
+1000886,Primary language,English
+1000886,Spoken language,English
+1000886,Spoken language,Portuguese
+1000886,Spoken language,Japanese
+1000887,Language,English
+1000888,Language,English
+1000889,Language,English
+1000890,Primary language,English
+1000890,Spoken language,English
+1000890,Spoken language,Russian
+1000890,Spoken language,Spanish
+1000890,Spoken language,Korean
+1000891,Primary language,English
+1000891,Spoken language,English
+1000891,Spoken language,Spanish
+1000891,Spoken language,French
+1000891,Spoken language,Italian
+1000891,Spoken language,Latin
+1000892,Language,Spanish
+1000893,Primary language,English
+1000893,Spoken language,English
+1000893,Spoken language,Estonian
+1000894,Language,English
+1000895,Language,English
+1000896,Language,English
+1000897,Primary language,English
+1000897,Spoken language,English
+1000897,Spoken language,German
+1000897,Spoken language,Italian
+1000898,Primary language,English
+1000898,Spoken language,English
+1000898,Spoken language,Spanish
+1000899,Language,English
+1000900,Primary language,English
+1000900,Spoken language,Hebrew (modern)
+1000900,Spoken language,English
+1000901,Language,English
+1000902,Primary language,English
+1000902,Spoken language,English
+1000902,Spoken language,French
+1000902,Spoken language,Latin
+1000903,Primary language,English
+1000903,Spoken language,English
+1000903,Spoken language,German
+1000904,Language,English
+1000905,Primary language,English
+1000905,Spoken language,English
+1000905,Spoken language,Greek (modern)
+1000905,Spoken language,Norwegian
+1000905,Spoken language,Spanish
+1000906,Language,English
+1000907,Primary language,English
+1000907,Spoken language,German
+1000907,Spoken language,English
+1000907,Spoken language,Italian
+1000908,Primary language,English
+1000908,Spoken language,English
+1000908,Spoken language,Italian
+1000908,Spoken language,German
+1000908,Spoken language,Latin
+1000909,Primary language,English
+1000909,Spoken language,English
+1000909,Spoken language,Spanish
+1000910,Language,English
+1000911,Primary language,English
+1000911,Spoken language,English
+1000911,Spoken language,Portuguese
+1000912,Language,English
+1000913,Language,English
+1000914,Language,English
+1000915,Language,English
+1000916,Language,English
+1000917,Language,English
+1000918,Language,English
+1000919,Language,English
+1000920,Primary language,English
+1000920,Spoken language,English
+1000920,Spoken language,French
+1000920,Spoken language,Hebrew (modern)
+1000920,Spoken language,Italian
+1000920,Spoken language,Yiddish
+1000921,Language,English
+1000922,Primary language,English
+1000922,Spoken language,English
+1000922,Spoken language,Japanese
+1000923,Language,English
+1000924,Language,German
+1000925,Language,English
+1000926,Language,English
+1000927,Language,English
+1000928,Primary language,English
+1000928,Spoken language,German
+1000928,Spoken language,English
+1000928,Spoken language,Latin
+1000929,Language,English
+1000930,Language,English
+1000931,Language,English
+1000932,Primary language,English
+1000932,Spoken language,English
+1000932,Spoken language,Spanish
+1000933,Primary language,French
+1000933,Spoken language,French
+1000933,Spoken language,German
+1000934,Primary language,English
+1000934,Spoken language,English
+1000934,Spoken language,Greek (modern)
+1000934,Spoken language,Italian
+1000935,Language,English
+1000936,Language,English
+1000937,Language,English
+1000938,Language,English
+1000939,Language,English
+1000940,Primary language,English
+1000940,Spoken language,Hungarian
+1000940,Spoken language,English
+1000941,Primary language,English
+1000941,Spoken language,English
+1000941,Spoken language,Korean
+1000942,Language,English
+1000943,Language,English
+1000944,Language,Japanese
+1000945,Language,English
+1000946,Language,English
+1000947,Language,English
+1000948,Language,English
+1000949,Language,English
+1000950,Primary language,English
+1000950,Spoken language,English
+1000950,Spoken language,Thai
+1000951,Language,English
+1000952,Language,English
+1000953,Primary language,English
+1000953,Spoken language,French
+1000953,Spoken language,Italian
+1000953,Spoken language,Dutch
+1000953,Spoken language,Chinese
+1000953,Spoken language,English
+1000954,Primary language,English
+1000954,Spoken language,English
+1000954,Spoken language,Portuguese
+1000954,Spoken language,Spanish
+1000955,Primary language,English
+1000955,Spoken language,English
+1000955,Spoken language,Irish
+1000956,Language,English
+1000957,Language,Russian
+1000958,Language,English
+1000959,Language,English
+1000960,Language,English
+1000962,Primary language,English
+1000962,Spoken language,English
+1000962,Spoken language,Latin
+1000963,Language,English
+1000964,Primary language,English
+1000964,Spoken language,English
+1000964,Spoken language,Thai
+1000965,Language,English
+1000966,Primary language,French
+1000966,Spoken language,English
+1000966,Spoken language,French
+1000967,Primary language,Chinese
+1000967,Spoken language,Chinese
+1000967,Spoken language,English
+1000967,Spoken language,Japanese
+1000968,Primary language,English
+1000968,Spoken language,Korean
+1000968,Spoken language,English
+1000969,Language,English
+1000970,Primary language,English
+1000970,Spoken language,English
+1000970,Spoken language,French
+1000971,Language,English
+1000972,Primary language,English
+1000972,Spoken language,Cantonese
+1000972,Spoken language,Chinese
+1000972,Spoken language,English
+1000973,Primary language,English
+1000973,Spoken language,English
+1000973,Spoken language,French
+1000974,Primary language,French
+1000974,Spoken language,French
+1000974,Spoken language,English
+1000975,Language,English
+1000976,Language,English
+1000977,Language,English
+1000978,Language,English
+1000979,Language,French
+1000980,Language,English
+1000981,Primary language,Japanese
+1000981,Spoken language,English
+1000981,Spoken language,Japanese
+1000982,Language,English
+1000983,Primary language,French
+1000983,Spoken language,French
+1000983,Spoken language,English
+1000984,Primary language,English
+1000984,Spoken language,English
+1000984,Spoken language,Japanese
+1000985,Language,English
+1000986,Primary language,English
+1000986,Spoken language,English
+1000986,Spoken language,Spanish
+1000987,Primary language,Cantonese
+1000987,Spoken language,Cantonese
+1000987,Spoken language,Spanish
+1000988,Primary language,English
+1000988,Spoken language,English
+1000988,Spoken language,Spanish
+1000989,Language,English
+1000990,Language,English
+1000991,Primary language,English
+1000991,Spoken language,Chinese
+1000991,Spoken language,English
+1000991,Spoken language,Japanese
+1000992,Language,English
+1000993,Language,English
+1000994,Primary language,English
+1000994,Spoken language,English
+1000994,Spoken language,Japanese
+1000995,Language,English
+1000996,Primary language,English
+1000996,Spoken language,English
+1000996,Spoken language,Spanish
+1000997,Primary language,English
+1000997,Spoken language,Spanish
+1000997,Spoken language,English
+1000998,Primary language,English
+1000998,Spoken language,"Bengali, Bangla"
+1000998,Spoken language,English
+1000998,Spoken language,Hindi
+1000999,Language,English
+1001000,Primary language,English
+1001000,Spoken language,Hebrew (modern)
+1001000,Spoken language,English
