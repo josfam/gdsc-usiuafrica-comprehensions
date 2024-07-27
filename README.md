@@ -4,6 +4,6 @@ Contains jupyter code examples for the python comprehensions session conducted w
 
 ## Original data sources
 
-- Rockyou password list: [source](https://www.kaggle.com/datasets/wjburns/common-password-list-rockyoutxt)
-- Letterboxd files: [source](https://www.kaggle.com/datasets/gsimonx37/letterboxd?select=movies.csv)
+- Rockyou common password list: [source](https://www.kaggle.com/datasets/wjburns/common-password-list-rockyoutxt)
+- Letterboxd movie files: [source](https://www.kaggle.com/datasets/gsimonx37/letterboxd?select=movies.csv)
 - The Adventures of Sherlock Holmes sample text: [source](https://www.gutenberg.org/cache/epub/1661/pg1661-images.html#chap01)
