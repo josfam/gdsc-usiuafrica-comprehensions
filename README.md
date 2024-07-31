@@ -1,6 +1,6 @@
 # gdsc-usiuafrica-comprehensions
 
-Contains jupyter code examples for the python comprehensions session conducted with the United States International University Africa, Kenya
+Contains Python code examples for the python comprehensions session conducted with the [GDSC at United States International University Africa, Kenya](https://gdsc.community.dev/united-states-international-university-africa-nairobi-kenya/)
 
 ## Original data sources
 
